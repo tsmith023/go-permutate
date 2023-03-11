@@ -1,4 +1,4 @@
-# Go Permutate
+# go-permutate
 
 This repository hosts the beginnings of a Go package for computing the [permutations](https://en.wikipedia.org/wiki/Permutation) of generic slices as generator functions leveraging goroutines under-the-hood.
 
